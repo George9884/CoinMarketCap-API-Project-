@@ -26,16 +26,29 @@ Robust Error Handling: Implemented exception handling structures to gracefully m
 
 
 Key Insights & Outcomes
+
 Successfully established a reliable workflow for querying live market data across major digital assets (Bitcoin, Ethereum).
 
 
 Standardized raw JSON outputs into structured, analysis-ready formats for ongoing financial trend evaluation.
 
 Getting Started
+
+
 Obtain an API key from https://coinmarketcap.com/api/
+
+
 Clone the repository and insert your credentials into the designated variable: YOUR_API_HERE
+
+
 Install the required dependency:
+
+
 pip install requests
+
+
 Execute the Jupyter Notebook to run the pipeline.
+
+
 Project by George Abasiumoh 
 -Data Analyst
